@@ -1,0 +1,7 @@
+{
+  "name": "miapp_multime",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
